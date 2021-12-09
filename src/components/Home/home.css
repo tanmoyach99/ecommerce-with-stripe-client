@@ -1,0 +1,14 @@
+
+.carousel-img{
+        width: 100vw;
+        height: 80vh;
+        object-fit:cover;
+        /* overflow: hidden; */
+        position: relative
+}
+.carousel-details{
+        position: absolute;
+        margin-top: -400px;
+        margin-left: 100px;
+        color: yellow;
+}

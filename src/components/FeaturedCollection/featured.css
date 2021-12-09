@@ -1,0 +1,12 @@
+.featured-img{
+    width: 25vw;
+    height: 30vh;
+    object-fit: cover;
+    
+
+}
+.featured-card{
+    margin: 5px;
+    border: 0;
+
+}

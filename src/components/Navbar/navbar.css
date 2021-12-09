@@ -1,0 +1,10 @@
+.navbar{
+    background-color: azure;
+}
+.nav-link{
+    color: black;
+}
+.cart-counter{
+    margin-top:-10px;
+    color: white;
+}
