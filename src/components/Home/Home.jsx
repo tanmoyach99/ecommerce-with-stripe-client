@@ -29,7 +29,7 @@ const Home = () => {
           ))}
         </Slider>
       </div>
-      <div>
+      <div className="container">
         <FeaturedCollection />
       </div>
     </div>

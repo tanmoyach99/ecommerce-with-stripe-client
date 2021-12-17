@@ -9,7 +9,7 @@ const StripeCheckOut = () => {
   const stripe = useStripe();
   const [email, setEmail] = useState("");
   const { cartItems } = useContext(CartContext);
-  console.log(cartItems);
+  //   console.log(cartItems);
 
   const handleCheckOut = async (e) => {
     e.preventDefault();

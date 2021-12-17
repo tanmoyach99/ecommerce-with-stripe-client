@@ -10,3 +10,10 @@
     border: 0;
 
 }
+.details{
+    display:none
+}
+.details:hover{
+    display:block;
+    background-color: gray;
+}
